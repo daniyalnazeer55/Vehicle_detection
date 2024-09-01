@@ -1,1 +1,1 @@
-# Vehicle_detection
+This repository includes all my internships tasks which I performed at Artificial Technology Center (AITeC), Islamabad. First I learned and implemented image processing techniques including edge detectors and matchers. Build a Convolutional neural network with model checkpoint to save best tuned weights. As last exercise, I trained a custom YOLO Model for detection of vehicles including cars, buses, trucks and motorbikes.
