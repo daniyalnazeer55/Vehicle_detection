@@ -1,4 +1,4 @@
-# Computer Vision and Object Detection Playground
+# Computer Vision and Object Detection
 
 This repository contains a collection of Jupyter Notebooks (`.ipynb`) implementing various computer vision tasks, object detection architectures, and model performance evaluations using Python, PyTorch, Ultralytics YOLOv8, and OpenCV.
 
